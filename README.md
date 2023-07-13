@@ -12,6 +12,8 @@ O projeto implementa uma API de envio de email para destinatarios.
 
 4. **API javaMail**
 
+5. **Template ultilizado**: https://colorlib.com/wp/template/contact-form-v1/
+
 
 ## DEMO VIDEO
 
