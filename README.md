@@ -15,4 +15,6 @@ O projeto implementa uma API de envio de email para destinatarios.
 
 ## DEMO VIDEO
 
-https://github.com/TeempL/enviando-email-javaMail/assets/113292924/50659c9b-44c3-4448-8eb8-3b4cde35b4fe
+https://github.com/TeempL/enviando-email-javaMail/assets/113292924/2b2d9537-a575-42b6-8ba0-826e1393c675
+
+
